@@ -1,0 +1,17 @@
+body {
+    background-color: beige ;
+}
+.container{
+    width: 500px;
+    margin-top: 10%;
+}
+
+.row {
+    display: block;
+}
+
+.submit{
+    background-color: black;
+    color: white;
+    border-radius: 25%;
+}

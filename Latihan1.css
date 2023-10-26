@@ -1,0 +1,19 @@
+.container {
+    display: flex inline-block;
+    margin-top: 20%;
+    background-color: beige;
+    width: 500px;
+  }
+  .row {
+    padding: 10px 10px;
+  }
+  
+  .col {
+    width: auto;
+  }
+
+  .btn.btn-secondary{
+    background-color: black;
+    color: white;
+  }
+  
